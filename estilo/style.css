@@ -93,8 +93,11 @@ section#img02 {
 }
 
 section#img03 {
-    background-image: url('../imagens/tribo.jpg');
-    background-size: cover;
+    background-image: url('../imagens/tribo2.jpg');
+    background-size:  cover;
+    background-position: center top;
+
+    
 }
 
 section#img04 {
